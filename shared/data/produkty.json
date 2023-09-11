@@ -1,0 +1,7 @@
+[
+    {"název": "Produkt1", "cena": 200, "množství": 10},
+    {"název": "Produkt2", "cena": 300, "množství": 15},
+    {"název": "Produkt3", "cena": 150, "množství": 20},
+    {"název": "Produkt4", "cena": 250, "množství": 5},
+    {"název": "Produkt5", "cena": 100, "množství": 30}
+]
